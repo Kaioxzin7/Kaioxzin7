@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kaio Henrique
+# 👾 Kaio Henrique
 
 **`Desenvolvedora FullStack`**
 
