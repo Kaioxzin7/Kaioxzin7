@@ -1,6 +1,6 @@
 # 👾 Kaio Henrique
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Web Júnior`**
 
 Me chamo Kaio Henrique, tenho 18 anos e sou natural de Minas Gerais. Cursando o terceiro ano do Ensino Medio. Atualmente, estou cursando Desenvolvimento de site. Sou apaixonado por tecnologia e compartilho alguns projetos através do Instagram, com o perfil chamado "[k4ioxzin](https://www.instagram.com/k4ioxzin/)".
 
