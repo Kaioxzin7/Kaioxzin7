@@ -2,7 +2,25 @@
 
 **`Desenvolvedor Web Júnior`**
 
-Me chamo Kaio Henrique, tenho 18 anos e sou natural de Minas Gerais. Cursando o terceiro ano do Ensino Medio. Atualmente, formado em Desenvolvimento de site. Sou apaixonado por tecnologia!
+# Olá! Eu sou Kaio Henrique 👋
+
+Desenvolvedor Web Júnior, interessado em tecnologia, desenvolvimento de interfaces e criação de experiências digitais.
+
+Atualmente, estudo e desenvolvo projetos utilizando tecnologias web e ferramentas de desenvolvimento assistido por inteligência artificial.
+
+### Tecnologias e ferramentas
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- WordPress
+- Git e GitHub
+
+### Projetos
+Desenvolvimento de sites institucionais, landing pages e projetos experimentais, buscando aprimorar minhas habilidades técnicas e visuais.
+
+📌 Confira meus repositórios e projetos publicados!
 
 ### 🤖 Linguagens e Tecnologias
 
